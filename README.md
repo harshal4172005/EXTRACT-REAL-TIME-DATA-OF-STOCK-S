@@ -4,7 +4,6 @@ This project involves extracting real-time stock data from Google Finance. The s
 Key features include:
 
 -> Fetching real-time stock prices.
--> Handling data for multiple stocks.
 -> Displaying or saving the data for further analysis.
 
 This project is ideal for those interested in finance, data analysis, and automation.
